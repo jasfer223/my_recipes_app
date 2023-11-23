@@ -1,4 +1,4 @@
-import 'package:fernandez_recipe_app/src/screens/recipes_screen.dart';
+import 'package:my_recipes_app/src/screens/recipes_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

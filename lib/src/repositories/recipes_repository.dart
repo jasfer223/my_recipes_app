@@ -1,6 +1,6 @@
-import 'package:fernandez_recipe_app/src/database/db_connection.dart';
-import 'package:fernandez_recipe_app/src/model/recipe.dart';
-import 'package:fernandez_recipe_app/src/repositories/intefaces/irecipes_repository.dart';
+import 'package:my_recipes_app/src/database/db_connection.dart';
+import 'package:my_recipes_app/src/model/recipe.dart';
+import 'package:my_recipes_app/src/repositories/intefaces/irecipes_repository.dart';
 
 class RecipesRepository implements IRecipesRepository {
   final DatabaseConnection _databaseConnection = DatabaseConnection();

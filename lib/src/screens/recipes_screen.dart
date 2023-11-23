@@ -1,8 +1,7 @@
-import 'package:fernandez_recipe_app/src/model/recipe.dart';
-import 'package:fernandez_recipe_app/src/screens/recipe_screen.dart';
-import 'package:fernandez_recipe_app/src/services/recipe_service.dart';
+import 'package:my_recipes_app/src/model/recipe.dart';
+import 'package:my_recipes_app/src/screens/recipe_screen.dart';
+import 'package:my_recipes_app/src/services/recipe_service.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 class RecipesScreen extends StatefulWidget {

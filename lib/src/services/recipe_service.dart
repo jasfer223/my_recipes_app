@@ -1,6 +1,6 @@
-import 'package:fernandez_recipe_app/src/model/recipe.dart';
-import 'package:fernandez_recipe_app/src/repositories/recipes_repository.dart';
-import 'package:fernandez_recipe_app/src/repositories/intefaces/irecipes_repository.dart';
+import 'package:my_recipes_app/src/model/recipe.dart';
+import 'package:my_recipes_app/src/repositories/recipes_repository.dart';
+import 'package:my_recipes_app/src/repositories/intefaces/irecipes_repository.dart';
 
 class RecipeService {
   IRecipesRepository? _repository;

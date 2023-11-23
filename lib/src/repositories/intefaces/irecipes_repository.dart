@@ -1,4 +1,4 @@
-import 'package:fernandez_recipe_app/src/model/recipe.dart';
+import 'package:my_recipes_app/src/model/recipe.dart';
 
 abstract class IRecipesRepository {
   Future<List<Recipe>> getRecipes();
